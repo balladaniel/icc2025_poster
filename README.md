@@ -6,4 +6,4 @@ Abstract (pre-release): [PDF](abstract_icc2025_20250506_final.pdf).
 
 Abstract (Abstracts of the ICA): `TBD`.
 
-<a href="abstract_icc2025_POSTER_2025-08-06_QR.jpg"><img src="abstract_icc2025_POSTER_2025-08-06_QR.jpg" alt="ICC 2025 Poster (low-res)" width="20%"></a>
+<a href="abstract_icc2025_POSTER_2025-08-06_QR.jpg"><img src="abstract_icc2025_POSTER_2025-08-06_QR.jpg" alt="ICC 2025 Poster (low-res)" width="35%"></a>
